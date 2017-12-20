@@ -6,6 +6,6 @@ package com.jeremy.library;
 
 public class CommonUtils {
     public static void getTest(){
-        
+
     }
 }
