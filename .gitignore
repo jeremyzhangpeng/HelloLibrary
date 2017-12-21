@@ -1,0 +1,17 @@
+#过滤文件夹
+bin/
+gen/
+proguard/
+build/
+.gradle/
+.idea/
+.settings/
+bugly/
+
+#过滤文件 *.mdb
+/.project
+/local.properties
+/.classpath
+/project.properties
+*.iml
+Hellolibrary.iml
